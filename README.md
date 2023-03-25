@@ -1,2 +1,3 @@
-# DinamicProgrammingExample
-Just for fun dinamic programming example
+# DynamicProgrammingExample
+
+Just for fun dynamic programming example.
